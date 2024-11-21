@@ -40,7 +40,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## **Contact**
 
-For questions or suggestions, please open an issue or reach out to [your_email@example.com].
+For questions or suggestions, please open an issue or reach out to [morganj2k@gmail.com].
 
 ---
 
